@@ -24,3 +24,7 @@ yarn-error.log*
 
 
 Procfile
+
+# secrets / firebase cli cache
+.env
+.firebase/
